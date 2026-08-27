@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Andrei 👋
 
-<!--
-**AndreiPandelica07/AndreiPandelica07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year ETTI-CTI student interested in software engineering,
+backend development, systems and algorithms.
 
-Here are some ideas to get you started:
+## 💻 Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Python
+- SQL / MySQL
+- REST APIs
+- CMake
+- Git / GitHub
+
+## 🚀 Favourite Projects
+
+
+### C++ Ecommerce
+A C++ ecommerce backend built with Crow and MySQL, featuring REST APIs,
+authentication, products, cart management, and orders.
+
+### Doctor Recommendation System
+A Python-based recommendation system that matches symptoms with
+potential medical specialists using weighted symptom relationships
+and fuzzy matching.
+
+## 📚 Currently Learning
+
+- Software architecture
+- Backend development
+- Database design
+- CMake
+- Data structures & algorithms
+
+## 🎯 Looking For
+
+I'm currently looking for a software engineering internship where I can
+develop my skills and contribute to real-world software projects.
