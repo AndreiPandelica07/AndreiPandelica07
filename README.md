@@ -11,4 +11,4 @@ Skills and experience:
   _____________________
 I’m looking for a machine learning or software engineering internship where I can develop my skills and contribute to real-world projects.
 
-Check out my project if you're here!
+Check out my projects if you're here!
