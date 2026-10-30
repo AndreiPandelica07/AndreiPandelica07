@@ -9,6 +9,6 @@ Skills and experience:
 - Neural networks and CNNs
 - Working with open-source LLMs
   _____________________
-I’m looking for a machine learning or software engineering internship where I can develop my skills and contribute to real-world projects.
+
 
 Check out my projects if you're here!
